@@ -1,6 +1,10 @@
 # Introduction to Calling Functions in NextJS
-- what else 
-- Big button - that says -enter the lottery - Lottery Entrance
+
+- IPFS Hosted version: [IPFS Live Version](ipfs://bafybeiee6bm7xcfpis33agay4nfab3c6kmlkwlscih442k5i7ttxhc3cqy/)
+
+![Dentralized Lottery Demo](public/lottery_demo.png)
+
+- Big button - that says - enter the lottery - Lottery Entrance
 - Header will drop
 
 - how we previously called it in FundMe
